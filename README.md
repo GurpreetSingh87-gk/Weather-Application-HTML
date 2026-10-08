@@ -2,6 +2,7 @@
 
 A beautiful, responsive weather application built with HTML, CSS, and JavaScript. Get real-time weather information for any location with an intuitive and user-friendly interface.
 
+---
 
 ### ✨ Features
 
@@ -20,6 +21,8 @@ A beautiful, responsive weather application built with HTML, CSS, and JavaScript
 - **Weather Icons**: Beautiful icons representing different weather conditions
 - **Temperature Unit Toggle**: Switch between Celsius and Fahrenheit
 
+---
+
 ### 🛠️ Technology Stack
 
 - **HTML5**: Semantic markup for structure
@@ -34,6 +37,8 @@ A beautiful, responsive weather application built with HTML, CSS, and JavaScript
 3. **Toggle Temperature Units**: Switch between Celsius and Fahrenheit
 4. **Get Location-based Weather**: Allow the app to access your location for automatic weather updates
 
+---
+
 ### 📁 Project Structure
 
 ```
@@ -44,6 +49,7 @@ Weather-Application-HTML/
 ├── assets/             # Images and icons
 └── README.md           # This file
 ```
+---
 
 ### 🔧 Configuration
 
@@ -51,6 +57,8 @@ To use your own weather API:
 1. Sign up for a free API key from [OpenWeatherMap](https://openweathermap.org/api) or similar service
 2. Update the API key in `script.js`
 3. Customize the API endpoints as needed
+
+---
 
 ### 🎯 Features Highlight
 
@@ -62,6 +70,8 @@ To use your own weather API:
 | **Fast & Lightweight** | Minimal dependencies, quick load times |
 | **User-Friendly** | Intuitive interface with no learning curve |
 
+---
+
 ### 📸 Preview
 
 Here's a glimpse of the application in action:
@@ -70,35 +80,45 @@ Here's a glimpse of the application in action:
 
 <img width="1894" height="1080" alt="Weather App Homepage" src="https://github.com/user-attachments/assets/04f281e8-3237-4308-9db4-038298cdb258" />
 
+---
+
 ##### Weather Map
 
 <img width="1894" height="1080" alt="Search Results" src="https://github.com/user-attachments/assets/5158bf69-b7b5-4591-813c-d743e862cfcb" />
 
+---
+
 ##### Forecast
 
-<img width="1896" height="1080" alt="Detailed Weather Info" src="https://github.com/user-attachments/assets/445d7916-cb14-4079-988a-ae0052d040a3" />
+<img width="1896" height="1080" alt="Detailed Weather Info" src="https://github.com/user-attachments/assets/445d7916-cb14-4079-988a-ae0052d040a3"/>
+
+---
 
 ##### Location
 
 <img width="1920" height="1080" alt="Mobile View 1" src="https://github.com/user-attachments/assets/090efbd2-5c91-4580-ae3d-dfadc5e9c277" />
 
+---
+
 ##### Alerts
 
-<img width="1920" height="1080" alt="Mobile View 2" src="https://github.com/user-attachments/assets/177ab5c8-3b71-4a0e-a566-69cc856c9eed" />
+<img width="1920" height="1080" alt="Mobile View 2" src="https://github.com/user-attachments/assets/177ab5c8-3b71-4a0e-a566-69cc856c9eed"/>
+
+---
 
 ##### Settings
 
-<img width="1920" height="1080" alt="Mobile View 3" src="https://github.com/user-attachments/assets/08102630-93f6-495f-98da-82624cc15bd7" />
+<img width="1920" height="1080" alt="Mobile View 3" src="https://github.com/user-attachments/assets/08102630-93f6-495f-98da-82624cc15bd7"/>
 
 ---
 
 ### 🚀 Getting Started
 
-### Prerequisites
+#### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
 - Internet connection for weather data API
 
-### Installation
+#### Installation
 
 1. **Clone the Repository**
    ```bash
