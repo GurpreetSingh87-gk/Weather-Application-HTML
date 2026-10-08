@@ -2,7 +2,8 @@
 
 A beautiful, responsive weather application built with HTML, CSS, and JavaScript. Get real-time weather information for any location with an intuitive and user-friendly interface.
 
-## ✨ Features
+
+### ✨ Features
 
 - **Real-time Weather Data**: Get current weather conditions for any location
 - **Search Functionality**: Easily search for weather in different cities
@@ -19,21 +20,21 @@ A beautiful, responsive weather application built with HTML, CSS, and JavaScript
 - **Weather Icons**: Beautiful icons representing different weather conditions
 - **Temperature Unit Toggle**: Switch between Celsius and Fahrenheit
 
-## 🛠️ Technology Stack
+### 🛠️ Technology Stack
 
 - **HTML5**: Semantic markup for structure
 - **CSS3**: Modern styling with responsive design
 - **JavaScript (ES6+)**: Dynamic functionality and API integration
 - **Weather API**: Real-time weather data integration
 
-### Usage
+#### Usage
 
 1. **Search for a Location**: Enter a city name in the search bar
 2. **View Weather Details**: Instantly see comprehensive weather information
 3. **Toggle Temperature Units**: Switch between Celsius and Fahrenheit
 4. **Get Location-based Weather**: Allow the app to access your location for automatic weather updates
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```
 Weather-Application-HTML/
@@ -44,14 +45,14 @@ Weather-Application-HTML/
 └── README.md           # This file
 ```
 
-## 🔧 Configuration
+### 🔧 Configuration
 
 To use your own weather API:
 1. Sign up for a free API key from [OpenWeatherMap](https://openweathermap.org/api) or similar service
 2. Update the API key in `script.js`
 3. Customize the API endpoints as needed
 
-## 🎯 Features Highlight
+### 🎯 Features Highlight
 
 | Feature | Description |
 |---------|-------------|
@@ -61,7 +62,7 @@ To use your own weather API:
 | **Fast & Lightweight** | Minimal dependencies, quick load times |
 | **User-Friendly** | Intuitive interface with no learning curve |
 
-## 📸 Preview
+### 📸 Preview
 
 Here's a glimpse of the application in action:
 
@@ -91,7 +92,7 @@ Here's a glimpse of the application in action:
 
 ---
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
@@ -111,7 +112,7 @@ Here's a glimpse of the application in action:
 
 ---
 
-## 📝 How to Contribute
+### 📝 How to Contribute
 
 Contributions are welcome! Follow these steps:
 
@@ -121,7 +122,7 @@ Contributions are welcome! Follow these steps:
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Open a Pull Request
 
-## 🐛 Known Issues & Improvements
+### 🐛 Known Issues & Improvements
 
 - [ ] Add weather forecast for upcoming days
 - [ ] Implement geolocation-based weather
@@ -130,15 +131,15 @@ Contributions are welcome! Follow these steps:
 - [ ] Dark mode toggle
 - [ ] Weather comparison between cities
 
-## 📄 License
+### 📄 License
 
 This project is open source and available under the MIT License. Feel free to use, modify, and distribute.
 
-## 💡 Feedback & Support
+### 💡 Feedback & Support
 
 Have suggestions or found a bug? Please [open an issue](https://github.com/GurpreetSingh87-gk/Weather-Application-HTML/issues) or reach out!
 
-## 📞 Contact
+### 📞 Contact
 
 - **GitHub**: [@GurpreetSingh87-gk](https://github.com/GurpreetSingh87-gk)
 - **Project Link**: [Weather Application HTML](https://github.com/GurpreetSingh87-gk/Weather-Application-HTML)
